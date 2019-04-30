@@ -1,0 +1,7 @@
+In this project, we compared the performance of CNN models constructed under different
+algorithms for the handwritten letter recognition task. We used a simple neural network
+model as our baseline model for comparison. Our results show that both CNN models
+outperform the baseline while the AlexNet algorithm gives the highest accuracy. The
+AlexNet CNN model achieves a 98% accuracy and the Keras model gives over 95%, while the
+baseline model is at about 90%. We believe that the results are acceptable considering the
+limited time and resources such as training data, computing power, etc.
